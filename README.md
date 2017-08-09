@@ -1,18 +1,12 @@
-# jsy
+# DouDou Flim 豆豆电影
 
-> A Vue.js project
+> 豆豆电影是仿时光网的个人练习项目
+> 技术清单：vue/vue-cli/vue-router/vue-swiper/mint-ui/mongoDB/Node.js爬虫
 
-## Build Setup
+git clone xxxxxxx
 
-``` bash
-# install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+doudou film is my first vue project. Thank for watching and welcome.
